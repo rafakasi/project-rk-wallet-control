@@ -30,6 +30,7 @@ Neste projeto, foi verificado se:
   
 ## Clonando o repositório
 Escolha uma pasta e clone este repositório na sua máquina
+
 git@github.com:rafakasi/project-rk-wallet-control.git
 
 Navegue até a pasta, execute o npm install no terminal e rode o npm start.
